@@ -1,6 +1,5 @@
 User-agent: *
 Disallow: /assets/
-Disallow: /sitemap.xml
 Allow: /
 
-Sitemap: https://www.luxens.online/sitemap.xml
+Sitemap: https://www.luxenstool.online/sitemap.xml
