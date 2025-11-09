@@ -1,52 +1,258 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <!-- Homepage -->
-  <url>
-    <loc>https://www.luxenstool.online/</loc>
-    <priority>1.0</priority>
-  </url>
-
-  <!-- About Us -->
-  <url>
-    <loc>https://www.luxenstool.online/about.html</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Contact -->
-  <url>
-    <loc>https://www.luxenstool.online/contact.html</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Terms of Use -->
-  <url>
-    <loc>https://www.luxenstool.online/terms-of-use.html</loc>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Privacy Policy -->
-  <url>
-    <loc>https://www.luxenstool.online/privacy-policy.html</loc>
-    <priority>0.6</priority>
-  </url>
-
-  <!-- Image Converter -->
-  <url>
-    <loc>https://www.luxenstool.online/image-converter.html</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- Image Compressor -->
-  <url>
-    <loc>https://www.luxenstool.online/image-compressor.html</loc>
-    <priority>0.7</priority>
-  </url>
-
-  <!-- Image Resizer -->
-  <url>
-    <loc>https://www.luxenstool.online/image-resizer.html</loc>
-    <priority>0.7</priority>
-  </url>
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<url>
+<loc>https://www.luxenstool.online/</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/contact.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/image-converter.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/image-compressor.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/image-resizer.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/image-crop.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/image-to-text.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/image-rotator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/pdf-to-word.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/pdf-compressor.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/pdf-merger-and-splitter.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/document-converter.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/pdf-lock-unlock.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/esign-pdf.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/scientific-calculator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/age-calculator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/bmi-calculator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/loan-emi-calculator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/gst-calculator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/currency-converter.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/text-case-converter.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/word-and-character-counter.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/remove-duplicate-lines.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/text-shortner.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/text-reverse.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/text-encryptor.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/html-minifier.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/json-formatter-and-validator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/base64-encoder.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/url-encoder.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/color-picker-and-converter.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/regex-tester.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/color-picker-from-image.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/hex-to-rgb-converter.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/gradient-generator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/contrast-checker.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/palette-generator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/color-blindness-simulator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/keyword-density-checker.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/meta-tag-analyzer.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/word-counter.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/qr-code-generator-and-scanner.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/barcode-generator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/uuid-generator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/unit-converter.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/time-zone-converter.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/random-number-and-password-generator.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/about-us.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/privacy-policy.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/terms-of-use.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://www.luxenstool.online/index.html</loc>
+<lastmod>2025-11-09T03:08:54+00:00</lastmod>
+<priority>0.64</priority>
+</url>
 </urlset>
